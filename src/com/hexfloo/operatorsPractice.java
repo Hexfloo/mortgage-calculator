@@ -3,7 +3,7 @@ package com.hexfloo;
 import java.util.Scanner;
 
 public class operatorsPractice {
-
+    /*
     // For Each loop
     public static void main(String[] args) {
         String[] fruits = {"Apple", "Mango", "Orange"};
@@ -11,7 +11,7 @@ public class operatorsPractice {
        for (String fruit : fruits) {
            System.out.println(fruit.toUpperCase());
        }
-    }
+    } */
 
     /*
     // FizzBuzz
